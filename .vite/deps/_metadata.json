@@ -1,0 +1,41 @@
+{
+  "hash": "c9aaa1a7",
+  "browserHash": "1e698391",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "d5996013",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "b475ed62",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "b0a69f1a",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4be19c6d",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../../../node_modules/react-icons/fa/index.esm.js",
+      "file": "react-icons_fa.js",
+      "fileHash": "67d9a70c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-MYQCFY5U": {
+      "file": "chunk-MYQCFY5U.js"
+    }
+  }
+}
